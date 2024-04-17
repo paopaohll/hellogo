@@ -1,7 +1,10 @@
 package main
 
-import "fmt"
+import "hellogo/study01"
 
 func main() {
-	fmt.Println("Hello world!")
+	// study01.StudyStr()
+	// study01.StudyStrconv()
+	// fmt.Print(time.Now())
+	study01.StudyTime()
 }
